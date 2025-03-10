@@ -22,7 +22,3 @@ https://formsubmit.co/
      <button type="submit">Send</button>
 </form>
 ---------------------------------------------------------------------------------------
-
-Build a PERSONAL portfolio using HTML and CSS | بناء موقع شخصي كامل
-
-https://www.youtube.com/watch?v=pxj6V8wPtrM&t=7318s
