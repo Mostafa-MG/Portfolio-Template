@@ -1,0 +1,28 @@
+1- insert CDNJS link in the header ((TO ADD ICONS))
+from website: https://cdnjs.com/libraries/font-awesome/6.7.1
+add the link in html file:
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+---------------------------------------------------------------------------------------
+2- add poppins font to style sheet
+from website: https://fonts.google.com/
+---------------------------------------------------------------------------------------
+3- ICONS Website
+https://fontawesome.com/
+---------------------------------------------------------------------------------------
+4- Change your photo to icon
+https://favicon.io/
+---------------------------------------------------------------------------------------
+5- To send Data From your Website to your E-mail
+https://formsubmit.co/
+
+"" Write your from like this""
+<form action="https://formsubmit.co/your@email.com" method="POST">
+     <input type="text" name="name" required>
+     <input type="email" name="email" required>
+     <button type="submit">Send</button>
+</form>
+---------------------------------------------------------------------------------------
+
+Build a PERSONAL portfolio using HTML and CSS | بناء موقع شخصي كامل
+
+https://www.youtube.com/watch?v=pxj6V8wPtrM&t=7318s
